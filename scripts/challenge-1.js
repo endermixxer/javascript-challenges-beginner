@@ -15,3 +15,8 @@ if (!output) throw "Output container not found.";
 
 //@ts-check
 // your code starts after this line
+function printEvenNumber() {
+   for (
+      let i = 0 ; i <= 10; i += 2
+   ) {console.log(i)}} printEvenNumber();
+   output.innerText = printEvenNumber;
